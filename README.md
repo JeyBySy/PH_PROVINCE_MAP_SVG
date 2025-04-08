@@ -1,5 +1,5 @@
-### Philippine Province Map Layout
-# List of All Provinces in the Philippines
+# Philippine Province Map Layout
+### List of All Provinces in the Philippines
 
 | Province                 | Status |
 |--------------------------|--------|
