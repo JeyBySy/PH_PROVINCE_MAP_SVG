@@ -79,3 +79,6 @@
 | Maguindanao del Sur      | ❌     |
 | Sulu                     | ❌     |
 | Tawi-Tawi                | ❌     |
+
+
+<i>Note:</i> Name of Cities and Municipalities is in "id" of path.
