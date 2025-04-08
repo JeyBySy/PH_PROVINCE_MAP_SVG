@@ -3,7 +3,7 @@
 
 | Province                 | Status |
 |--------------------------|--------|
-| Ilocos Norte             | ❌     |
+| Ilocos Norte             | ✅     |
 | Ilocos Sur               | ❌     |
 | La Union                 | ❌     |
 | Pangasinan                | ❌     |
