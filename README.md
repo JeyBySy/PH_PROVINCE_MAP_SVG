@@ -6,13 +6,13 @@
 | Ilocos Norte             | ❌     |
 | Ilocos Sur               | ❌     |
 | La Union                 | ❌     |
-| Pangasinan              | ❌     |
+| Pangasinan                | ❌     |
 | Batanes                  | ❌     |
 | Cagayan                  | ❌     |
 | Isabela                  | ❌     |
 | Nueva Vizcaya            | ❌     |
 | Quirino                  | ❌     |
-| Aurora                   | ❌     |
+| Aurora                   | ✅     |
 | Bataan                   | ❌     |
 | Bulacan                  | ❌     |
 | Nueva Ecija              | ❌     |
