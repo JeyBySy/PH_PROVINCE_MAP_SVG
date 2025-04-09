@@ -4,7 +4,7 @@
 | Province                 | Status |
 |--------------------------|--------|
 | Ilocos Norte             | ✅     |
-| Ilocos Sur               | ❌     |
+| Ilocos Sur               | ✅     |
 | La Union                 | ❌     |
 | Pangasinan                | ❌     |
 | Batanes                  | ❌     |
