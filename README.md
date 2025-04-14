@@ -5,15 +5,15 @@
 |--------------------------|--------|
 | Ilocos Norte             | ✅     |
 | Ilocos Sur               | ✅     |
-| La Union                 | ❌     |
-| Pangasinan                | ❌     |
+| La Union                 | ✅     |
+| Pangasinan               | ❌     |
 | Batanes                  | ❌     |
 | Cagayan                  | ❌     |
 | Isabela                  | ❌     |
 | Nueva Vizcaya            | ❌     |
 | Quirino                  | ❌     |
 | Aurora                   | ✅     |
-| Bataan                   | ❌     |
+| Bataan                   | ✅     |
 | Bulacan                  | ❌     |
 | Nueva Ecija              | ❌     |
 | Pampanga                 | ❌     |
@@ -29,14 +29,14 @@
 | Oriental Mindoro         | ❌     |
 | Palawan                  | ❌     |
 | Romblon                  | ❌     |
-| Albay                    | ❌     |
+| Albay                    | ✅     |
 | Camarines Norte          | ❌     |
 | Camarines Sur            | ❌     |
 | Catanduanes              | ❌     |
 | Masbate                  | ❌     |
 | Sorsogon                 | ❌     |
-| Aklan                    | ❌     |
-| Antique                  | ❌     |
+| Aklan                    | ✅     |
+| Antique                  | ✅     |
 | Capiz                    | ❌     |
 | Guimaras                 | ❌     |
 | Iloilo                   | ❌     |
@@ -68,17 +68,38 @@
 | Sarangani                | ❌     |
 | South Cotabato           | ❌     |
 | Sultan Kudarat           | ❌     |
-| Agusan del Norte         | ❌     |
-| Agusan del Sur           | ❌     |
+| Agusan del Norte         | ✅     |
+| Agusan del Sur           | ✅     |
 | Dinagat Islands          | ❌     |
 | Surigao del Norte        | ❌     |
 | Surigao del Sur          | ❌     |
-| Basilan                  | ❌     |
+| Basilan                  | ✅     |
 | Lanao del Sur            | ❌     |
 | Maguindanao del Norte    | ❌     |
 | Maguindanao del Sur      | ❌     |
 | Sulu                     | ❌     |
 | Tawi-Tawi                | ❌     |
+
+
+
+NCR
+Caloocan
+Las Piñas
+Makati
+Malabon
+Mandaluyong
+Manila (Capital City)
+Marikina
+Muntinlupa
+Navotas
+Parañaque
+Pasay - Need better outline
+Pasig
+Quezon City (Largest by area and population)
+San Juan
+Taguig
+Valenzuela
+Pateros 
 
 
 <i>Note:</i> Name of Cities and Municipalities is in "id" of path.
