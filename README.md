@@ -7,14 +7,14 @@
 | Ilocos Sur               | ✅     |
 | La Union                 | ✅     |
 | Pangasinan               | ❌     |
-| Batanes                  | ❌     |
+| Batanes                  | ✅     |
 | Cagayan                  | ❌     |
 | Isabela                  | ❌     |
 | Nueva Vizcaya            | ❌     |
 | Quirino                  | ❌     |
 | Aurora                   | ✅     |
 | Bataan                   | ✅     |
-| Bulacan                  | ❌     |
+| Bulacan                  | ✅     |
 | Nueva Ecija              | ❌     |
 | Pampanga                 | ❌     |
 | Tarlac                   | ❌     |
@@ -37,7 +37,7 @@
 | Sorsogon                 | ❌     |
 | Aklan                    | ✅     |
 | Antique                  | ✅     |
-| Capiz                    | ❌     |
+| Capiz                    | ✅     |
 | Guimaras                 | ❌     |
 | Iloilo                   | ❌     |
 | Negros Occidental        | ❌     |
@@ -45,17 +45,17 @@
 | Cebu                     | ❌     |
 | Negros Oriental          | ❌     |
 | Siquijor                 | ❌     |
-| Biliran                  | ❌     |
+| Biliran                  | ✅     |
 | Eastern Samar            | ❌     |
 | Leyte                    | ❌     |
 | Northern Samar           | ❌     |
 | Samar (Western Samar)    | ❌     |
 | Southern Leyte           | ❌     |
-| Zamboanga del Norte      | ❌     |
+| Zamboanga del Norte      | ✅     |
 | Zamboanga del Sur        | ❌     |
 | Zamboanga Sibugay        | ❌     |
-| Bukidnon                 | ❌     |
-| Camiguin                 | ❌     |
+| Bukidnon                 | ✅     |
+| Camiguin                 | ✅     |
 | Lanao del Norte          | ❌     |
 | Misamis Occidental       | ❌     |
 | Misamis Oriental         | ❌     |
