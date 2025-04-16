@@ -1,84 +1,90 @@
 # Philippine Province Map Layout
 ### List of All Provinces in the Philippines
 
-| Province                 | Status |
-|--------------------------|--------|
-| Ilocos Norte             | ✅     |
-| Ilocos Sur               | ✅     |
-| La Union                 | ✅     |
-| Pangasinan               | ❌     |
-| Batanes                  | ✅     |
-| Cagayan                  | ❌     |
-| Isabela                  | ❌     |
-| Nueva Vizcaya            | ❌     |
-| Quirino                  | ❌     |
-| Aurora                   | ✅     |
-| Bataan                   | ✅     |
-| Bulacan                  | ✅     |
-| Nueva Ecija              | ❌     |
-| Pampanga                 | ❌     |
-| Tarlac                   | ❌     |
-| Zambales                 | ❌     |
-| Batangas                 | ✅     |
-| Cavite                   | ❌     |
-| Laguna                   | ❌     |
-| Quezon                   | ❌     |
-| Rizal                    | ❌     |
-| Marinduque               | ❌     |
-| Occidental Mindoro       | ❌     |
-| Oriental Mindoro         | ❌     |
-| Palawan                  | ❌     |
-| Romblon                  | ❌     |
-| Albay                    | ✅     |
-| Camarines Norte          | ❌     |
-| Camarines Sur            | ❌     |
-| Catanduanes              | ❌     |
-| Masbate                  | ❌     |
-| Sorsogon                 | ❌     |
-| Aklan                    | ✅     |
-| Antique                  | ✅     |
-| Capiz                    | ✅     |
-| Guimaras                 | ❌     |
-| Iloilo                   | ❌     |
-| Negros Occidental        | ❌     |
-| Bohol                    | ❌     |
-| Cebu                     | ❌     |
-| Negros Oriental          | ❌     |
-| Siquijor                 | ❌     |
-| Biliran                  | ✅     |
-| Eastern Samar            | ❌     |
-| Leyte                    | ❌     |
-| Northern Samar           | ❌     |
-| Samar (Western Samar)    | ❌     |
-| Southern Leyte           | ❌     |
-| Zamboanga del Norte      | ✅     |
-| Zamboanga del Sur        | ❌     |
-| Zamboanga Sibugay        | ❌     |
-| Bukidnon                 | ✅     |
-| Camiguin                 | ✅     |
-| Lanao del Norte          | ❌     |
-| Misamis Occidental       | ❌     |
-| Misamis Oriental         | ❌     |
-| Davao de Oro             | ❌     |
-| Davao del Norte          | ❌     |
-| Davao del Sur            | ❌     |
-| Davao Occidental         | ❌     |
-| Davao Oriental           | ❌     |
-| Cotabato (North Cotabato)| ❌     |
-| Sarangani                | ❌     |
-| South Cotabato           | ❌     |
-| Sultan Kudarat           | ❌     |
-| Agusan del Norte         | ✅     |
-| Agusan del Sur           | ✅     |
-| Dinagat Islands          | ❌     |
-| Surigao del Norte        | ❌     |
-| Surigao del Sur          | ❌     |
-| Basilan                  | ✅     |
-| Lanao del Sur            | ❌     |
-| Maguindanao del Norte    | ❌     |
-| Maguindanao del Sur      | ❌     |
-| Sulu                     | ❌     |
-| Tawi-Tawi                | ❌     |
+| Province                  | Status |
+|---------------------------|--------|
+| Abra                      |        |
+| Agusan del Norte          | ✅     |
+| Agusan del Sur            | ✅     |
+| Aklan                     | ✅     |
+| Albay                     | ✅     |
+| Antique                   | ✅     |
+| Apayao                    |        |
+| Aurora                    | ✅     |
+| Basilan                   | ✅     |
+| Bataan                    | ✅     |
+| Batanes                   | ✅     |
+| Batangas                  | ✅     |
+| Benguet                   |        |
+| Biliran                   | ✅     |
+| Bohol                     |        |
+| Bukidnon                  | ✅     |
+| Bulacan                   | ✅     |
+| Cagayan                   |        |
+| Camarines Norte           |        |
+| Camarines Sur             |        |
+| Camiguin                  | ✅     |
+| Capiz                     | ✅     |
+| Catanduanes               |        |
+| Cavite                    |        |
+| Cebu                      |        |
+| Cotabato (North Cotabato) |        |
+| Davao de Oro              |        |
+| Davao del Norte           |        |
+| Davao del Sur             |        |
+| Davao Occidental          |        |
+| Davao Oriental            |        |
+| Dinagat Islands           |        |
+| Eastern Samar             |        |
+| Guimaras                  |        |
+| Ifugao                    |        |
+| Ilocos Norte              | ✅     |
+| Ilocos Sur                | ✅     |
+| Iloilo                    |        |
+| Isabela                   |        |
+| Kalinga                   |        |
+| La Union                  | ✅     |
+| Laguna                    |        |
+| Lanao del Norte           |        |
+| Lanao del Sur             |        |
+| Leyte                     |        |
+| Maguindanao del Norte     |        |
+| Maguindanao del Sur       |        |
+| Marinduque                |        |
+| Masbate                   |        |
+| Misamis Occidental        |        |
+| Misamis Oriental          |        |
+| Mountain Province         |        |
+| Negros Occidental         |        |
+| Negros Oriental           |        |
+| Northern Samar            |        |
+| Nueva Ecija               |        |
+| Nueva Vizcaya             |        |
+| Occidental Mindoro        |        |
+| Oriental Mindoro          |        |
+| Palawan                   |        |
+| Pampanga                  |        |
+| Pangasinan                |        |
+| Quezon                    |        |
+| Quirino                   |        |
+| Rizal                     |        |
+| Romblon                   |        |
+| Samar (Western Samar)     |        |
+| Sarangani                 |        |
+| Siquijor                  |        |
+| Sorsogon                  |        |
+| South Cotabato            |        |
+| Southern Leyte            |        |
+| Sultan Kudarat            |        |
+| Sulu                      |        |
+| Surigao del Norte         |        |
+| Surigao del Sur           |        |
+| Tarlac                    |        |
+| Tawi-Tawi                 |        |
+| Zambales                  |        |
+| Zamboanga del Norte       | ✅     |
+| Zamboanga del Sur         |        |
+| Zamboanga Sibugay         |        |
 
 
 
