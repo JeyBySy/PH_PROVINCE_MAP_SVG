@@ -17,17 +17,17 @@
 | Batangas                  | ✅     |
 | Benguet                   |        |
 | Biliran                   | ✅     |
-| Bohol                     |        |
+| Bohol                     | ✅     |
 | Bukidnon                  | ✅     |
 | Bulacan                   | ✅     |
 | Cagayan                   |        |
-| Camarines Norte           |        |
+| Camarines Norte           | ✅     |
 | Camarines Sur             |        |
 | Camiguin                  | ✅     |
 | Capiz                     | ✅     |
-| Catanduanes               |        |
-| Cavite                    |        |
-| Cebu                      |        |
+| Catanduanes               | ✅     |
+| Cavite                    | ✅     |
+| Cebu                      | ✅     |
 | Cotabato (North Cotabato) |        |
 | Davao de Oro              |        |
 | Davao del Norte           |        |
@@ -50,7 +50,7 @@
 | Leyte                     |        |
 | Maguindanao del Norte     |        |
 | Maguindanao del Sur       |        |
-| Marinduque                |        |
+| Marinduque                | ✅     |
 | Masbate                   |        |
 | Misamis Occidental        |        |
 | Misamis Oriental          |        |
