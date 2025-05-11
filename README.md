@@ -3,19 +3,19 @@
 
 | Province                  | Status |
 |---------------------------|--------|
-| Abra                      |        |
+| Abra                      | ✅     |
 | Agusan del Norte          | ✅     |
 | Agusan del Sur            | ✅     |
 | Aklan                     | ✅     |
 | Albay                     | ✅     |
 | Antique                   | ✅     |
-| Apayao                    |        |
+| Apayao                    | ✅     |
 | Aurora                    | ✅     |
 | Basilan                   | ✅     |
 | Bataan                    | ✅     |
 | Batanes                   | ✅     |
 | Batangas                  | ✅     |
-| Benguet                   |        |
+| Benguet                   | ✅     |
 | Biliran                   | ✅     |
 | Bohol                     | ✅     |
 | Bukidnon                  | ✅     |
@@ -30,13 +30,13 @@
 | Cebu                      | ✅     |
 | Cotabato (North Cotabato) |        |
 | Davao de Oro              |        |
-| Davao del Norte           |        |
-| Davao del Sur             |        |
+| Davao del Norte           | ✅     |
+| Davao del Sur             | ✅     |
 | Davao Occidental          |        |
 | Davao Oriental            |        |
 | Dinagat Islands           |        |
 | Eastern Samar             |        |
-| Guimaras                  |        |
+| Guimaras                  | ✅     |
 | Ifugao                    |        |
 | Ilocos Norte              | ✅     |
 | Ilocos Sur                | ✅     |
@@ -44,7 +44,7 @@
 | Isabela                   |        |
 | Kalinga                   |        |
 | La Union                  | ✅     |
-| Laguna                    |        |
+| Laguna                    | ✅     |
 | Lanao del Norte           |        |
 | Lanao del Sur             |        |
 | Leyte                     |        |
@@ -65,21 +65,21 @@
 | Palawan                   |        |
 | Pampanga                  |        |
 | Pangasinan                |        |
-| Quezon                    |        |
-| Quirino                   |        |
+| Quezon                    | ✅     |
+| Quirino                   | ✅     |
 | Rizal                     |        |
 | Romblon                   |        |
 | Samar (Western Samar)     |        |
 | Sarangani                 |        |
-| Siquijor                  |        |
+| Siquijor                  | ✅     |
 | Sorsogon                  |        |
-| South Cotabato            |        |
+| South Cotabato            | ✅     |
 | Southern Leyte            |        |
 | Sultan Kudarat            |        |
 | Sulu                      |        |
 | Surigao del Norte         |        |
 | Surigao del Sur           |        |
-| Tarlac                    |        |
+| Tarlac                    | ✅     |
 | Tawi-Tawi                 |        |
 | Zambales                  |        |
 | Zamboanga del Norte       | ✅     |
